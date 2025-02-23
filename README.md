@@ -1,7 +1,7 @@
 # CMOS 2-Input NOR Gate Project
 
 ## Overview
-This project involves the design, simulation, and analysis of a **CMOS 2-Input NOR Gate** using **Cadence Virtuoso**. The NOR gate is a fundamental digital logic gate that outputs a high signal only when both inputs are low, making it essential in combinational logic circuits.
+This project involves designing, simulating, and analysis of a **CMOS 2-Input NOR Gate** using **Cadence Virtuoso**. The NOR gate is a fundamental digital logic gate that outputs a high signal only when both inputs are low, making it essential in combinational logic circuits.
 
 ## Software & Tools Used
 - **Cadence Virtuoso** (for schematic capture, layout, and simulation)
@@ -41,15 +41,19 @@ This project involves the design, simulation, and analysis of a **CMOS 2-Input N
 
 ## Reference Images
 - **2_Input_NOR_Schematic**
+  
   ![Nor_Schematic](https://github.com/user-attachments/assets/19a8faf0-1883-450e-b3d1-a5e7e4675fb9)
 
 - **2_Input_NOR_Test**
+  
   ![Nor_Test](https://github.com/user-attachments/assets/8ee6ffa0-3558-4344-a98e-a45fc44082e2)
 
 - **2_Input_NOR_Layout**
+  
 ![Nor_Layout](https://github.com/user-attachments/assets/54fb8da7-3c62-49cd-83aa-bfdc44fbf30f)
 
 - **2_Input_NOR_AV_Extracted**
+  
 ![Nor_AV_Extracted](https://github.com/user-attachments/assets/e1eaa867-caae-476c-92f5-e9773251f71e)
 
 ---
